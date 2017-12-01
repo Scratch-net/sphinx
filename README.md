@@ -1,2 +1,2 @@
 # sphinx
-Sphinx protocol implementation in Go
+[Sphinx](http://webee.technion.ac.il/~hugo/sphinx.pdf) protocol implementation in Go
